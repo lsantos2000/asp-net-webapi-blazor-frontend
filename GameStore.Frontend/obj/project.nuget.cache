@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jG2ykuIxQrUqcaWiFWkQDP2WlHVX8vxQhZXc919GsRtCVbepMCYMpgdpGGf43Tbz9Un8GLhqM8fHMyryM9cewQ==",
+  "dgSpecHash": "dH/eYxheun+7ppDW5nE0dGMcFsxYHbH/tJB67ZL65+GNsRuPGS3gp7dcDPVH+iu1+wrbj4/5bZPksTcZzKdNOg==",
   "success": true,
-  "projectFilePath": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj",
+  "projectFilePath": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

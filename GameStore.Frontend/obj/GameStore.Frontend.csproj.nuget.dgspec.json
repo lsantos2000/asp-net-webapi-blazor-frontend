@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj": {}
+    "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj": {
+    "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj",
+        "projectUniqueName": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj",
         "projectName": "GameStore.Frontend",
-        "projectPath": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj",
+        "projectPath": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj",
         "packagesPath": "C:\\Users\\sebys\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\",
+        "outputPath": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

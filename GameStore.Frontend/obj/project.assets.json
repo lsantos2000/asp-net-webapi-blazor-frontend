@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj",
+      "projectUniqueName": "c:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj",
       "projectName": "GameStore.Frontend",
-      "projectPath": "c:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\GameStore.Frontend.csproj",
+      "projectPath": "c:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\GameStore.Frontend.csproj",
       "packagesPath": "C:\\Users\\sebys\\.nuget\\packages\\",
-      "outputPath": "c:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\",
+      "outputPath": "c:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
