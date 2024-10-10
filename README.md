@@ -4,7 +4,7 @@ This repository contains a Frontend solution that integrates an ASP.NET Web API 
 
 GameStore Backend is an ASP.NET Core application that manages a collection of games and genres. The backend project demonstrates the use of Entity Framework Core for database operations.
 
-Check out the backend here: https://github.com/lsantos2000/asp-net-webapi-backend.git
+Check out the backend here: https://github.com/lsantos2000/asp-net-webapi-backend
 
 Code based, and modified for demo purposes, on the source code of the YouTube video "ASP.NET Core Full Course For Beginners" by Julio Casal at https://dotnetacademy.io, see https://www.youtube.com/watch?v=AhAxLiGC7Pc and https://www.youtube.com/watch?v=RBVIclt4sOo
 
