@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h/CP5nP6P7G2pSuc5AIzcCIEuDJW28KO8pcj8zhQPbo=",
+  "Hash": "3Wcqhn67GcQ2WU+chKxGfSZMfOsV11oeFnE7N0U/Qr8=",
   "Source": "GameStore.Frontend",
   "BasePath": "_content/GameStore.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameStore.Frontend\\wwwroot",
       "Source": "GameStore.Frontend",
-      "ContentRoot": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\wwwroot\\",
       "BasePath": "_content/GameStore.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Identity": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
+      "OriginalItemSpec": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
     },
     {
-      "Identity": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Identity": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\wwwroot\\app.css",
+      "Identity": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\wwwroot\\app.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\source\\blazor-full-course-source-code\\GameStore.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\source\\asp-net-webapi-blazor-frontend\\GameStore.Frontend\\wwwroot\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "app.css",
       "AssetKind": "All",

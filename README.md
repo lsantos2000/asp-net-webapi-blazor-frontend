@@ -1,12 +1,10 @@
 # GameStore - Blazor Frontend
 
-This repository contains a Frontend solution that integrates an ASP.NET Web API backend (GameStore Backend) with a Blazor Frontend.
+GameStore Frontend is an ASP.NET Core application, using Blazor.
 
-GameStore Backend is an ASP.NET Core application that manages a collection of games and genres. The backend project demonstrates the use of Entity Framework Core for database operations.
+It integrates with a correspondent ASP.NET Web API backend, by the name of GameStore Backend. Check out the backend here: https://github.com/lsantos2000/asp-net-webapi-backend
 
-Check out the backend here: https://github.com/lsantos2000/asp-net-webapi-backend
-
-Code based, and modified for demo purposes, on the source code of the YouTube video "ASP.NET Core Full Course For Beginners" by Julio Casal at https://dotnetacademy.io, see https://www.youtube.com/watch?v=AhAxLiGC7Pc and https://www.youtube.com/watch?v=RBVIclt4sOo
+Both GameStore Frontend and Backend manage a collection of games and genres.
 
 ## Table of Contents
 
@@ -16,7 +14,6 @@ Code based, and modified for demo purposes, on the source code of the YouTube vi
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -53,7 +50,8 @@ Follow the instructions to get the backend up and running.
 2. Navigate to the frontend project directory:
 
 ```sh
-cd asp-net-webapi-blazor-frontend
+cd ./asp-net-webapi-blazor-frontend
+cd ./GameStore.Frontend
 ```
 
 3. Restore the dependencies:
